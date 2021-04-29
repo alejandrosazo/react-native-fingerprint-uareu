@@ -1,0 +1,26 @@
+{
+  "name": "react-native-fingerprint-uareu-v1",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "fingerprint",
+    "uareu",
+    "digitalpersonal"
+  ],
+  "repository": "https://github.com/alejandrosazo/react-native-fingerprint-uareu",
+  "author": "alejandroS <ottoalejandrobonilla2014@gmail.com> (https://github.com/alejandrosazo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alejandrosazo/react-native-fingerprint-uareu/issues"
+  },
+  "homepage": "https://github.com/alejandrosazo/react-native-fingerprint-uareu#readme",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
